@@ -3,7 +3,7 @@
 <br>
 <br>
 # Motivation
-SpringBoot와 Thymeleaf를 공부하면서 한국에서 인기있는 쇼핑몰인 쿠팡을 클론 코딩하는 팀프로젝트입니다.
+SpringBoot와 Thymeleaf를 공부하면서 한국에서 인기있는 인터넷 쇼핑몰인 쿠팡을 클론 코딩하는 팀프로젝트입니다.
 <br>
 <br>
 # Tech/framework used
